@@ -10,7 +10,7 @@ description:
   </p>
   
   <p align="justify">
-  Industrial Engineering and Management graduate from the University of Porto with hands-on experience in data science, machine learning, and data visualization and with a strong analytical mindset and a growing focus on data science. Currently working in the SAP Analytics team at Deloitte, where I build data-driven solutions to support strategic decision-making. I have experience in developing predictive models, creating performance dashboards, and estimating resource needs based on process data.
+  Industrial Engineering and Management graduate from the University of Porto with hands-on experience in data science, machine learning, and data visualization and with a strong analytical mindset and a growing focus on data science. Currently working as tech consultant at Deloitte, where I build data-driven solutions to support strategic decision-making. I have experience in developing predictive models, creating performance dashboards, and estimating resource needs based on process data.
   
   <br><br>
   
@@ -20,4 +20,4 @@ description:
   </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
+#google_analytics: UA-145578661-1 # Google Analytics tracking ID
