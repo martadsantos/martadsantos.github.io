@@ -14,7 +14,7 @@ In addition, clustering was used to segment stores, allowing for tailored strate
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/music-genre-recognition-notebook.html)
 <br>
-[![Download PowerBI]([https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi))](https://github.com/davidissa99/Music-Genre-Recognition)
+[![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi)](https://github.com/davidissa99/Music-Genre-Recognition)
 
 ---
 <center>© 2025 Marta Santos. Powered by Jekyll and the Minimal Theme.</center>
