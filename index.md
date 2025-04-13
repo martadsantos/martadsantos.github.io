@@ -2,13 +2,14 @@
 ---
 ## Machine Learning
 
-### Near-to-expiration Discount Program
+### Sales Prediction Program for Discounted Near-Expiration Products
 
-A Convolutional Neural Network (CNN) is employed to model a music genre classification task using the GTZAN dataset, comprising 100 music samples of 30 seconds each for 10 different music genres. 
+What if we could predict which near-expiration products will sell after a discount is applied? In the retail industry, the answer to this question could drastically reduce waste and boost profitability. This project tackled the challenge of forecasting the sales likelihood of discounted, near-expiration products by testing several predictive models. After evaluating multiple approaches, the Random Forest Classifier stood out as the top performer, achieving a 75.8% F1-score with over 150,000 records.
 
-The CNN model is trained using data augmentation along with regularization techniques, resulting in an accuracy of 86% for unseen music samples. 
+A Power BI dashboard was created, focusing on cost and profit analysis to highlight what’s working well for brands with successful sales and pinpoint areas for improvement in those with lower sales performance. This insight provided the foundation for smarter decision-making.
 
-CHANGE THIS PAGE
+In addition, clustering was used to segment stores, allowing for tailored strategies to reduce waste, cut costs, and increase profits for each store group.
+
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/music-genre-recognition-notebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/davidissa99/Music-Genre-Recognition)
