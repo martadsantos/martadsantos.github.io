@@ -13,9 +13,6 @@ In addition, clustering was used to segment stores, allowing for tailored strate
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/music-genre-recognition-notebook.html)
 <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/davidissa99/Music-Genre-Recognition)
-<br>
-[![Open Web App](https://img.shields.io/badge/GenreRecog-Open_Web_App-blue?logo=1001tracklists&logoColor=FFFFFF)](https://music-genre-recognition.streamlit.app/)
-
 
 ---
 <center>© 2025 Marta Santos. Powered by Jekyll and the Minimal Theme.</center>
