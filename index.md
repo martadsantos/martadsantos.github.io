@@ -14,6 +14,8 @@ In addition, clustering was used to segment stores, allowing for tailored strate
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ML_Approaches_Near_Expiration_Products.html)
 <br>
+[![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi&logoColor=white)](projects/Near_to_Expiration_Program_Dashboard.pbix)
+
 [![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi)](projects/Near_to_Expiration_Program_Dashboard.pbix)
 
 ---
