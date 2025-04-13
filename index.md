@@ -12,9 +12,9 @@ A Power BI dashboard was also created, focusing on cost and profit analysis to h
 <br><br>
 In addition, clustering was used to segment stores, allowing for tailored strategies to reduce waste, cut costs, and increase profits for each store group.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/music-genre-recognition-notebook.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ML_Approaches_Near_Expiration_Products.html)
 <br>
-[![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi)](https://github.com/davidissa99/Music-Genre-Recognition)
+[![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi)](projects/Near_to_Expiration_Program_Dashboard.pbix)
 
 ---
 <center>© 2025 Marta Santos. Powered by Jekyll and the Minimal Theme.</center>
