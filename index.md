@@ -16,7 +16,5 @@ In addition, clustering was used to segment stores, allowing for tailored strate
 <br>
 [![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi&logoColor=white)](projects/Near_to_Expiration_Program_Dashboard.pbix)
 
-[![Download PowerBI](https://img.shields.io/badge/Power_BI-View_on_Power_BI-orange?logo=powerbi)](projects/Near_to_Expiration_Program_Dashboard.pbix)
-
 ---
 <center>© 2025 Marta Santos. Powered by Jekyll and the Minimal Theme.</center>
